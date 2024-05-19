@@ -1,0 +1,17 @@
+Se considera el Fluor 18 en decaimiento beta+
+
+Tomando los datos de:
+
+	- Guión de simulación
+	- https://ptable.com/?lang=es#Is%C3%B3topos
+
+
+PADRE:
+A = 18
+Z = 9
+
+HIJO:
+A = 18
+Z = 8 
+
+E = 0.63 MeV

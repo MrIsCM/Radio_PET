@@ -1,0 +1,19 @@
+Elemento = Nitrogeno 13
+
+*************************************
+Elemento padre:
+Z = 13
+A = 7
+
+Elemento hijo:
+Z = 13
+A = 6
+
+Energia en la transicion
+E = 1.20 MeV
+
+*************************************
+
+Resultados
+Media: 493.06005
+Error media: 1.726210869048597

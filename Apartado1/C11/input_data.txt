@@ -1,0 +1,17 @@
+Se considera el C 11 en decaimiento beta+
+
+Tomando los datos de:
+
+	- Guión de simulación
+	- https://ptable.com/?lang=es#Is%C3%B3topos
+
+
+PADRE:
+A = 11
+Z = 6
+
+HIJO:
+A = 11
+Z = 5
+
+E = 0.96 MeV

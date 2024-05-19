@@ -1,0 +1,19 @@
+Elemento = Galio 68
+
+*************************************
+Elemento padre:
+Z = 68
+A = 31
+
+Elemento hijo:
+Z = 68
+A = 30
+
+Energia en la transicion
+E = 1.9 MeV
+
+*************************************
+
+Resultados
+Media: 837.56054395951
+Error media: 2.8934070724736953

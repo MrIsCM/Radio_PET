@@ -1,0 +1,19 @@
+Elemento = Oxigeno 15
+
+*************************************
+Elemento padre:
+Z = 15
+A = 8
+
+Elemento hijo:
+Z = 15
+A = 7
+
+Energia en la transicion
+E = 1.74 MeV
+
+*************************************
+
+Resultados
+Media: 739.8743000000001
+Error media: 2.5822726695370988

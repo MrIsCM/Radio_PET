@@ -1,0 +1,19 @@
+Elemento = Rubidio 82
+
+*************************************
+Elemento padre:
+Z = 82
+A = 37
+
+Elemento hijo:
+Z = 82
+A = 36
+
+Energia en la transicion
+E = 3.38 MeV
+
+*************************************
+
+Resultados
+Media: 1535.7724565341996
+Error media: 5.285812277907206
