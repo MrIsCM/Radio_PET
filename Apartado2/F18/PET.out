@@ -1,0 +1,313 @@
+ RANDOM NUMBER SEEDS:    12224556    98443265
+
+ PRIMARY PARTICLES: POSITRONES
+
+ NUMBER OF MATERIALS IN MATFILE =  4
+
+ MATERIAL FILE:  Water.mat           
+
+ MATERIAL FILE:  Air.mat             
+
+ MATERIAL FILE:  Bone.mat            
+
+ MATERIAL FILE:  Lead.mat            
+
+ MATERIAL  1
+ ENERGIA DE ABSORCION PARA ELECTRONES =  1.0000E+02 eV
+    ENERGIA DE ABSORCION PARA FOTONES =  1.0000E+03 eV
+ ENERGIA DE ABSORCION PARA POSITRONES =  1.0000E+02 eV
+
+ PARAMETROS DE LA SIMULACION 
+  C1= 5.0000E-02      C2= 5.0000E-02
+ WCC= 5.0000E+03 eV  WCR= 1.0000E+03 eV
+ DSMAX= 1.0000E+35
+
+
+ MATERIAL  2
+ ENERGIA DE ABSORCION PARA ELECTRONES =  1.0000E+02 eV
+    ENERGIA DE ABSORCION PARA FOTONES =  1.0000E+03 eV
+ ENERGIA DE ABSORCION PARA POSITRONES =  1.0000E+02 eV
+
+ PARAMETROS DE LA SIMULACION 
+  C1= 5.0000E-02      C2= 5.0000E-02
+ WCC= 5.0000E+03 eV  WCR= 1.0000E+03 eV
+ DSMAX= 1.0000E+35
+
+
+ MATERIAL  3
+ ENERGIA DE ABSORCION PARA ELECTRONES =  1.0000E+02 eV
+    ENERGIA DE ABSORCION PARA FOTONES =  1.0000E+03 eV
+ ENERGIA DE ABSORCION PARA POSITRONES =  1.0000E+02 eV
+
+ PARAMETROS DE LA SIMULACION 
+  C1= 5.0000E-02      C2= 5.0000E-02
+ WCC= 5.0000E+03 eV  WCR= 1.0000E+03 eV
+ DSMAX= 1.0000E+35
+
+
+ MATERIAL  4
+ ENERGIA DE ABSORCION PARA ELECTRONES =  1.0000E+02 eV
+    ENERGIA DE ABSORCION PARA FOTONES =  1.0000E+03 eV
+ ENERGIA DE ABSORCION PARA POSITRONES =  1.0000E+02 eV
+
+ PARAMETROS DE LA SIMULACION 
+  C1= 5.0000E-02      C2= 5.0000E-02
+ WCC= 5.0000E+03 eV  WCR= 1.0000E+03 eV
+ DSMAX= 1.0000E+35
+
+ PRIMARY PARTICLE ENERGY =  2.5400E+05 eV
+
+ **********************************
+ **   PENELOPE  (version 2018)   **
+ **********************************
+
+ EMIN = 1.0000E+02 eV,  EMAX = 1.2760E+06 eV
+
+
+ **********************
+ **   1st material   **
+ **********************
+
+ Material data file: Water.mat           
+
+ *** Simulation parameters:
+     Electron absorption energy = 1.0000E+02 eV
+       Photon absorption energy = 1.0000E+03 eV
+     Positron absorption energy = 1.0000E+02 eV
+      C1 = 5.0000E-02,       C2 = 5.0000E-02
+     WCC = 5.0000E+03 eV,   WCR = 1.0000E+03 eV
+
+ PENELOPE (v. 2018)  Material data file ...............
+ Material: WATER, LIQUID  --ICRU90  (278)                                
+ Mass density = 9.98210000E-01 g/cm**3
+ Number of elements in the molecule =  2
+    Element: H  (Z= 1), atoms/molecule = 2.00000000E+00
+    Element: O  (Z= 8), atoms/molecule = 1.00000000E+00
+ Mean excitation energy = 7.80000000E+01 eV
+ PENELOPE (v. 2018)  End of material data file ........
+
+
+ **********************
+ **   2nd material   **
+ **********************
+
+ Material data file: Air.mat             
+
+ *** Simulation parameters:
+     Electron absorption energy = 1.0000E+02 eV
+       Photon absorption energy = 1.0000E+03 eV
+     Positron absorption energy = 1.0000E+02 eV
+      C1 = 5.0000E-02,       C2 = 5.0000E-02
+     WCC = 5.0000E+03 eV,   WCR = 1.0000E+03 eV
+
+ PENELOPE (v. 2018)  Material data file ...............
+ Material: AIR, DRY (NEAR SEA LEVEL)  (104)                              
+ Mass density = 1.20479000E-03 g/cm**3
+ Number of elements in the molecule =  4
+    Element: C  (Z= 6), atoms/molecule = 1.50187000E-04
+    Element: N  (Z= 7), atoms/molecule = 7.84430000E-01
+    Element: O  (Z= 8), atoms/molecule = 2.10748000E-01
+    Element: Ar (Z=18), atoms/molecule = 4.67111000E-03
+ Mean excitation energy = 8.57000000E+01 eV
+ PENELOPE (v. 2018)  End of material data file ........
+
+
+ **********************
+ **   3rd material   **
+ **********************
+
+ Material data file: Bone.mat            
+
+ *** Simulation parameters:
+     Electron absorption energy = 1.0000E+02 eV
+       Photon absorption energy = 1.0000E+03 eV
+     Positron absorption energy = 1.0000E+02 eV
+      C1 = 5.0000E-02,       C2 = 5.0000E-02
+     WCC = 5.0000E+03 eV,   WCR = 1.0000E+03 eV
+
+ PENELOPE (v. 2018)  Material data file ...............
+ Material: BONE, COMPACT (ICRU)  (119)                                   
+ Mass density = 1.85000000E+00 g/cm**3
+ Number of elements in the molecule =  8
+    Element: H  (Z= 1), atoms/molecule = 5.27900000E-01
+    Element: C  (Z= 6), atoms/molecule = 1.92470000E-01
+    Element: N  (Z= 7), atoms/molecule = 1.60297000E-02
+    Element: O  (Z= 8), atoms/molecule = 2.13105000E-01
+    Element: Mg (Z=12), atoms/molecule = 6.84277000E-04
+    Element: P  (Z=15), atoms/molecule = 1.87932000E-02
+    Element: S  (Z=16), atoms/molecule = 5.18757000E-04
+    Element: Ca (Z=20), atoms/molecule = 3.04991000E-02
+ Mean excitation energy = 9.19000000E+01 eV
+ PENELOPE (v. 2018)  End of material data file ........
+
+
+ **********************
+ **   4th material   **
+ **********************
+
+ Material data file: Lead.mat            
+
+ *** Simulation parameters:
+     Electron absorption energy = 1.0000E+02 eV
+       Photon absorption energy = 1.0000E+03 eV
+     Positron absorption energy = 1.0000E+02 eV
+      C1 = 5.0000E-02,       C2 = 5.0000E-02
+     WCC = 5.0000E+03 eV,   WCR = 1.0000E+03 eV
+
+ PENELOPE (v. 2018)  Material data file ...............
+ Material: LEAD  (82)                                                    
+ Mass density = 1.13500000E+01 g/cm**3
+ Number of elements in the molecule =  1
+    Element: Pb (Z=82), atoms/molecule = 1.00000000E+00
+ Mean excitation energy = 8.23000000E+02 eV
+ PENELOPE (v. 2018)  End of material data file ........
+
+--------------------> SCATTERING MODEL INITIALIZED
+
+
+ SURFACES RADII :   8.0000000000000000        8.5000000000000000        9.0000000000000000        45.000000000000000     
+ MATERIALS FOR BODIES:           1           3           1           2           4
+
+ GEOMETRY FILE:  PET-WBA.geo         
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX        
+ -- Spherical ---------                                                 
+0000000000000000000000000000000000000000000000000000000000000000
+SURFACE (   1)   SPHERICAL SURFACE R=  8.00 cm                       
+INDICES=( 1, 1, 1, 0,-1)
+X-SCALE=( 8.000000000000000E+00,   0)       
+Y-SCALE=( 8.000000000000000E+00,   0)       
+Z-SCALE=( 8.000000000000000E+00,   0)       
+0000000000000000000000000000000000000000000000000000000000000000
+SURFACE (   2)   SPHERICAL SURFACE R=  8.50 cm                       
+INDICES=( 1, 1, 1, 0,-1)
+X-SCALE=( 8.500000000000000E+00,   0)       
+Y-SCALE=( 8.500000000000000E+00,   0)       
+Z-SCALE=( 8.500000000000000E+00,   0)       
+0000000000000000000000000000000000000000000000000000000000000000
+SURFACE (   3)   SPHERICAL SURFACE R=  9.00 cm                       
+INDICES=( 1, 1, 1, 0,-1)
+X-SCALE=( 9.000000000000000E+00,   0)       
+Y-SCALE=( 9.000000000000000E+00,   0)       
+Z-SCALE=( 9.000000000000000E+00,   0)       
+0000000000000000000000000000000000000000000000000000000000000000
+SURFACE (   4)   SPHERICAL SURFACE R= 45.00 cm                       
+INDICES=( 1, 1, 1, 0,-1)
+X-SCALE=( 4.500000000000000E+01,   0)       
+Y-SCALE=( 4.500000000000000E+01,   0)       
+Z-SCALE=( 4.500000000000000E+01,   0)       
+0000000000000000000000000000000000000000000000000000000000000000
+BODY    (   1)                                                       
+MATERIAL(   1)
+SURFACE (   1), SIDE POINTER=(-1)
+0000000000000000000000000000000000000000000000000000000000000000
+BODY    (   2)                                                       
+MATERIAL(   3)
+SURFACE (   2), SIDE POINTER=(-1)
+BODY    (   1)
+0000000000000000000000000000000000000000000000000000000000000000
+BODY    (   3)                                                       
+MATERIAL(   1)
+SURFACE (   3), SIDE POINTER=(-1)
+BODY    (   2)
+0000000000000000000000000000000000000000000000000000000000000000
+BODY    (   4)                                                       
+MATERIAL(   2)
+SURFACE (   4), SIDE POINTER=(-1)
+BODY    (   3)
+0000000000000000000000000000000000000000000000000000000000000000
+BODY    (   5)                                                       
+MATERIAL(   4)
+SURFACE (   4), SIDE POINTER=( 1)
+0000000000000000000000000000000000000000000000000000000000000000
+END      0000000000000000000000000000000000000000000000000000000
+
+
+
+*****************************************
+****     PENGEOM (version 2014)      ****
+****  Constructive Quadric Geometry  ****
+*****************************************
+
+
+
+************  Genealogical tree. 
+
+
+*** BODY   =    1,  KMOTH =    6,  MAT =  1
+KSURF =    1    5
+KFLAG =    1    1
+
+*** BODY   =    2,  KMOTH =    6,  MAT =  3
+KBODY =    1
+KSURF =    2    1    5
+KFLAG =    1    3    1
+
+*** BODY   =    3,  KMOTH =    6,  MAT =  1
+KBODY =    2
+KSURF =    3    2    1    5
+KFLAG =    1    3    3    1
+
+*** BODY   =    4,  KMOTH =    6,  MAT =  2
+KBODY =    3
+KSURF =    4    3    2    1    5
+KFLAG =    1    3    3    3    1
+
+*** BODY   =    5,  KMOTH =    6,  MAT =  4
+KSURF =    4    5
+KFLAG =    2    1
+
+*** MODULE =    6,  KMOTH =    0,  MAT =  0
+KDGHT =    1    2    3    4    5    6
+KSURF =    5    1    2    3    4
+KFLAG =    1    4    4    4    4
+
+
+************  Adequacy of the geometry definition.
+
+The largest number of bodies in a module or
+     bodies limiting a single body is ............    6
+
+The largest number of limiting surfaces for
+     a single body or module is ..................    5
+
+
+The simulation of this geometry will be relatively fast,
+     no further optimization seems to be required.
+
+************  The end.
+
+--------------------> GEOMETRY INITIALIZED
+
+
+ RSOURCE =   0.0000000000000000     
+
+   NUMBER OF HISTORIES TO BE SIMULATED =  100000
+
+ OUTPUT HISTOGRAM INITIAL ENERGY:  ini-ene.his         
+ HISTOGRAM LIMITS:  0.0000E+00 - 1.0000E+03 keV  WITH   50 CHANNELS
+
+ OUTPUT HISTOGRAM ANNIHILATION POSITION:  ann-pos.his         
+ HISTOGRAM LIMITS:  0.0000E+00 - 2.0000E-01 cm  WITH   40 CHANNELS
+
+ OUTPUT HISTOGRAM DETECTION ENERGY:  det-ene.his         
+ HISTOGRAM LIMITS:  0.0000E+00 - 1.0000E+03 keV  WITH   50 CHANNELS
+
+--------------------> INPUT END
+
+
+
+       10000
+       20000
+       30000
+       40000
+       50000
+       60000
+       70000
+       80000
+       90000
+      100000
+
+
+ Historias simuladas :     100000
+ E_media =   2.5400E+02 +/-  0.0000E+00 keV
+ r_media de aniquilacion =   4.5469E-02 +/-  3.5528E-05 cm
