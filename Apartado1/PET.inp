@@ -15,7 +15,7 @@ EABS- ELECTRONS  PHOTONS  POSITRONS    C1    C2    WCC    WCR   DSMAX
           1.0D2    1.0D3      1.0D2  0.05  0.05  5.0D3  1.0D3  1.D+35  !-->MATERIAL 3
           1.0D2    1.0D3      1.0D2  0.05  0.05  5.0D3  1.0D3  1.D+35  !-->MATERIAL 4
 ENER (KPAR=1,2,3) or EBMAX AF ZF IPROH (KPAR=4 o KPAR=5)
-                  3.38E+06   82. 36.    0
+                  1.20E+06   13. 6.    0
 NUMBER OF SURFACES
      4
 RADII OF THE SURFACES (in cm)
@@ -31,12 +31,12 @@ NTOTAL
 INITIAL ENERGY FILE
 ini-ene.his
 EHSTI EHSTF NBINE (keV)
-  0.0 5.2E+3    350
+  0.0 5.2E+03    350
 ANNIHILATION POSITION FILE
 ann-pos.his
 XHSTI XHSTF NBINX
-  0.0   0.2    40
+  0.0   2.0    120
 DETECTION ENERGY FILE
 det-ene.his
 EINIHSTI EINIHSTF NBINEINI (keV)
-  0.0 1.E+3    50
+  0.0 5.2E+03    350
